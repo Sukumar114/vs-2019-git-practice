@@ -13,6 +13,7 @@ namespace vs_2019_git_practice
 {
     public class Startup
     {
+        //modify_startup_page
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
